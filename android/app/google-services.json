@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833725645879",
+    "project_id": "signature-64e7a",
+    "storage_bucket": "signature-64e7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833725645879:android:6edf063143d72bedc4ebb2",
+        "android_client_info": {
+          "package_name": "com.example.signatureapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL9StHvRW9Q04pWcKmIlCwYtOubd_qvvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
